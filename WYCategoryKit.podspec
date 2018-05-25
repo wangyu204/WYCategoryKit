@@ -19,9 +19,9 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
-                       DEcbSC
+                       DESC
 
-  s.homepage         = 'https://github.com/wangyu204/WYCategoryKit.git'
+  s.homepage         = 'https://github.com/wangyu204/WYCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '王喻' => 'wangyu@317hu.com' }
