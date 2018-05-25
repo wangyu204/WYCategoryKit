@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WYCategoryKit'
-  s.version          = '1.3'
+  s.version          = '1.3.1'
   s.summary          = 'A short description of WYCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'WYCategoryKit/Classes/**/*'
-  
+  s.source_files = 'WYCategoryKit/Classes/categoryFile/**/*'
   # s.resource_bundles = {
   #   'WYCategoryKit' => ['WYCategoryKit/Assets/*.png']
   # }
