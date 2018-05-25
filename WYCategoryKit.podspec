@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WYCategoryKit'
-  s.version          = '0.1.0'
+  s.version          = '1.1'
   s.summary          = 'A short description of WYCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -19,13 +19,13 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
-                       DESC
+                       DEcbSC
 
-  s.homepage         = 'https://github.com/王喻/WYCategoryKit'
+  s.homepage         = 'https://github.com/wangyu204/WYCategoryKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '王喻' => 'wangyu@317hu.com' }
-  s.source           = { :git => 'https://github.com/王喻/WYCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wangyu204/WYCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
